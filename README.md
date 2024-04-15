@@ -24,18 +24,23 @@
 - ⚡ Fun fact **Code is poetry written in zeros and ones.**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> ♾️Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/giridharan793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giridharan793" height="30" width="40" /></a>
+  
 <a href="https://kaggle.com/giridharanss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giridharanss" height="30" width="40" /></a>
+
 <a href="https://instagram.com/mr_gd_2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_gd_2k3" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/girirohitlic777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="girirohitlic777" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/girirohitlic777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="girirohitlic777" height="30" width="40" /></a>
 </p>
 </br>
 
 <div style="display: flex; align-items: center;">
-<h3>Languages and Tools</h3>
+<h3>⚙️Languages and Tools</h3>
 <br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -73,16 +78,24 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
 </div>
+  
 <br>
 <div style="display: flex; align-items: center;">
-<h3>Statistics</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giridharan79&show_icons=true&locale=en&layout=compact" alt="giridharan79" /></p>
-</br>
+<h3>📈Statistics</h3>
+</div>
 <br>
+
 <div style="display: flex; align-items: center;">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giridharan79&show_icons=true&locale=en" alt="giridharan79" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giridharan79&show_icons=true&locale=en&layout=compact" alt="giridharan79" /></p>
 </div>
+<br>
+
+<div style="display: flex; align-items: center;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=giridharan79&show_icons=true&locale=en" alt="giridharan79" /></p>
 </div>
+<br>
+
 <div style="display: flex; align-items: center;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridharan79&" alt="giridharan79" /></p>
+</div>
 
