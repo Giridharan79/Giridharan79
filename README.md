@@ -1,5 +1,5 @@
 ![White Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/Giridharan79/Giridharan79/assets/128962921/89840569-b6e7-43b8-8db7-39c43ef431e4)
-<h1 align="center">Hello Guyss <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif">, I'm Giri</h1>
+<h1 align="center">Hello Guyss <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">, I'm Giri</h1>
 <h3 align="center">Certainly! Here's an I'm a passionate full stack developer from India who loves crafting seamless user experiences with elegant front-end designs and back-end solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
