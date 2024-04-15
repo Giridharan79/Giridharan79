@@ -92,9 +92,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridharan79&" alt="giridharan79" />
 </div>
 
-<h3 align="center">🪟Profile views</h3>
+<h3 align="center">Thank You Guys</h3>
 <div align="center">
-  <img src=""  />
+  <img src=""  width="30"/>
 </div>
-
-<img src=" />
