@@ -28,13 +28,9 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/giridharan793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giridharan793" height="30" width="40" /></a>
-  
 <a href="https://kaggle.com/giridharanss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giridharanss" height="30" width="40" /></a>
-
 <a href="https://instagram.com/mr_gd_2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_gd_2k3" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/girirohitlic777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="girirohitlic777" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/girirohitlic777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="girirohitlic777" height="30" width="40" /></a>
 </p>
 </br>
@@ -82,20 +78,23 @@
 <br>
 <div style="display: flex; align-items: center;">
 <h3>📈Statistics</h3>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giridharan79&show_icons=true&locale=en&layout=compact" alt="giridharan79" />
 <br>
-
-<div style="display: flex; align-items: center;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giridharan79&show_icons=true&locale=en&layout=compact" alt="giridharan79" /></p>
-</div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=giridharan79&show_icons=true&locale=en" alt="giridharan79" />
 <br>
-
-<div style="display: flex; align-items: center;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=giridharan79&show_icons=true&locale=en" alt="giridharan79" /></p>
-</div>
-<br>
-
-<div style="display: flex; align-items: center;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridharan79&" alt="giridharan79" /></p>
+  <br>
+  <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridharan79&" alt="giridharan79" />
 </div>
 
+<h3 align="center">🪟Profile views</h3>
+<div align="center">
+  <img src=""  />
+</div>
+
+<img src=" />
