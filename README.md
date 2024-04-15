@@ -24,7 +24,8 @@
 - ⚡ Fun fact **Code is poetry written in zeros and ones.**
 
   <br>
-<h3 align="left" img src="">Connect with me:</h3>
+<h3 align="left"><img src="![connect2](https://github.com/Giridharan79/Giridharan79/assets/128962921/e560975a-6454-4bec-939f-736ca8ed6196)
+">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giridharan793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giridharan793" height="30" width="40" /></a>
 </p>
