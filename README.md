@@ -92,7 +92,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giridharan79&" alt="giridharan79" />
 </div>
 
-<h3 align="center">Thank You Guys</h3>
+<h3 align="center">Thank You For Visiting 🤝❤️</h3>
 <div align="center">
   <img src="https://media1.tenor.com/m/OXsbaebhRxYAAAAC/loki-thank-you.gif"  width="300"/>
 </div>
