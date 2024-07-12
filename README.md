@@ -62,6 +62,8 @@
   <h4>Learning Tools</h4>
   </div>
   <div>
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=chash" height="40" alt="chash logo"  />
