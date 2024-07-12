@@ -64,7 +64,7 @@
   <div>
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=Csharp" height="40" alt="Csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
