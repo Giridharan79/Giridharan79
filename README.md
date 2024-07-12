@@ -55,17 +55,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
+  <div>
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
-  <div>
   {learning}
   </div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
+  <div>
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
-  <div>
-    {learning}
+  {learning}
   </div>
 </div>
   
