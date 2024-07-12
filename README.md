@@ -59,7 +59,7 @@
   <img width="12" />
   
   <div>
-  <h4>Learning Tools</h4>
+  <h4>Currently Learning Tools</h4>
   </div>
   <div>
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
