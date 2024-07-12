@@ -36,7 +36,7 @@
 </br>
 
 <div style="display: flex; align-items: center;">
-<h3>⚙️Languages and Tools</h3>
+<h3>⚙️Languages and Tools (Working and learning)</h3>
 <br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -56,9 +56,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
-  <img width="12" />
+  <img width="12" /> {learning}
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" /> {learning}
 </div>
   
 <br>
