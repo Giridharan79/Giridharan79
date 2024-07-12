@@ -66,7 +66,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=chash" height="40" alt="chash logo"  />
+  <img src="https://skillicons.dev/icons?i=Chash" height="40" alt="Chash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
