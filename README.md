@@ -1,5 +1,5 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/Giridharan79/Giridharan79/assets/128962921/89840569-b6e7-43b8-8db7-39c43ef431e4)
-<h1 align="center">Hello Guyss <img src="file:///C:/Users/girir/Downloads/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(2).png" width="30">, I'm Giri</h1>
+![White Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/0ad65665-9fa6-4b1a-9ddc-dd0ff732fe83)
+<h1 align="center">Hello Guyss, I'm Giri</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=999&center=true&vCenter=true&random=false&width=1000&lines=Open+to+work;sudoku+player;Volleyball+enthusiast;Innovative+Web+developer" alt="Typing SVG" /></a>
 
