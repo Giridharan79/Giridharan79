@@ -94,5 +94,4 @@
 
 <h3 align="center">Thank You For Visiting 🤝❤️</h3>
 <div align="center">
-  <img src="https://media1.tenor.com/m/OXsbaebhRxYAAAAC/loki-thank-you.gif"  width="300"/>
 </div>
